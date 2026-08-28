@@ -1,7 +1,7 @@
 <!-- ===== ANIMATED SPACE HEADER ===== -->
 <!-- Commit space-header.svg to your repo root first -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yz31LL/Yz31LL/main/space-header.svg" alt="Yzeill Joshua Kyle Torres" />
+  <img src="https://raw.githubusercontent.com/Yz31LL/Yz31LL/main/space-header.svg" alt="Yz31LL" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   &nbsp;
   <a href="mailto:joshuakyletorrespb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7AA2F7&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Yz31LL&style=flat-square&color=7AA2F7&label=Profile+Views" />
 </div>
 
 ---
