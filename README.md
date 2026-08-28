@@ -123,8 +123,10 @@
 
 ---
 
-## 📈 Activity
+## 📈 GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yz31LL&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://img.shields.io/github/followers/Yz31LL?label=Followers&style=for-the-badge&color=7AA2F7&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-A855F7?style=for-the-badge" />
 </div>
