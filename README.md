@@ -1,6 +1,7 @@
-<!-- ===== HEADER ===== -->
+<!-- ===== ANIMATED SPACE HEADER ===== -->
+<!-- Commit space-header.svg to your repo root first -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Software+Engineer;React+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+GCP;Monorepos%2C+RAG+systems%2C+and+ML+pipelines" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/space-header.svg" alt="Yzeill Joshua Kyle Torres" />
 </div>
 
 <div align="center">
@@ -9,6 +10,23 @@
   <a href="mailto:joshuakyletorrespb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7AA2F7&label=Profile+Views" />
+</div>
+
+---
+
+## 🌌 Specializations
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_AI_Software_Engineer-7AA2F7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning_Engineer-A855F7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Geospatial_AI%2FML-22C55E?style=for-the-badge&logoColor=white" />
+</div>
+
+### ⭐ Core Data Platform
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/LookerML-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataprep_by_Trifacta-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ---
@@ -42,7 +60,7 @@
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Data Warehouse
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" /><br>
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -71,6 +89,16 @@
   <img src="https://img.shields.io/badge/Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white" />
 </p>
 
+### 🛰️ Geospatial & Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentinel_1%2F2-0B3D91?style=flat-square&logo=esa&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoJSON-3EAF7C?style=flat-square&logo=geojson&logoColor=white" />
+  <img src="https://img.shields.io/badge/LookerML-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataprep_by_Trifacta-F9AB00?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+</p>
+
 ### 🧪 Tooling & Quality
 <p>
   <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
@@ -81,15 +109,6 @@
   <img src="https://img.shields.io/badge/Semgrep-000000?style=flat-square&logo=semgrep&logoColor=white" />
   <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-### 🛰️ Geospatial & Data
-<p>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentinel_1%2F2-0B3D91?style=flat-square&logo=esa&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeoJSON-3EAF7C?style=flat-square&logo=geojson&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" />
 </p>
 
 ### 🎨 Design & Creative
