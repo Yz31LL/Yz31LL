@@ -1,7 +1,7 @@
 <!-- ===== ANIMATED SPACE HEADER ===== -->
 <!-- Commit space-header.svg to your repo root first -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/space-header.svg" alt="Yzeill Joshua Kyle Torres" />
+  <img src="https://raw.githubusercontent.com/Yz31LL/Yz31LL/main/space-header.svg" alt="Yzeill Joshua Kyle Torres" />
 </div>
 
 <div align="center">
