@@ -1,7 +1,7 @@
 <!-- ===== ANIMATED SPACE HEADER ===== -->
 <!-- Commit space-header.svg to your repo root first -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yz31LL/Yz31LL/main/space-header.svg" alt="Yz31LL" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/space-header.svg" alt="Yzeill Joshua Kyle Torres" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   &nbsp;
   <a href="mailto:joshuakyletorrespb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Yz31LL&style=flat-square&color=7AA2F7&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7AA2F7&label=Profile+Views" />
 </div>
 
 ---
@@ -20,13 +20,6 @@
   <img src="https://img.shields.io/badge/Full--Stack_AI_Software_Engineer-7AA2F7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning_Engineer-A855F7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Geospatial_AI%2FML-22C55E?style=for-the-badge&logoColor=white" />
-</div>
-
-### ⭐ Core Data Platform
-<div align="center">
-  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/LookerML-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataprep_by_Trifacta-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ---
@@ -60,23 +53,38 @@
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Data Warehouse
+### 🗄️ Databases & Data
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" /><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=amazondynamodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/LookerML-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataprep_by_Trifacta-F9AB00?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" />
 </p>
 
-### 🤖 AI / ML
+### 🤖 Machine Learning & Deep Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" /><br>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO_by_Ultralytics-111F68?style=flat-square&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Garden-34A853?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_GenAI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Genkit-FF6F00?style=flat-square&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery_ML-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SHAP-0F9D58?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
@@ -94,9 +102,6 @@
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentinel_1%2F2-0B3D91?style=flat-square&logo=esa&logoColor=white" />
   <img src="https://img.shields.io/badge/GeoJSON-3EAF7C?style=flat-square&logo=geojson&logoColor=white" />
-  <img src="https://img.shields.io/badge/LookerML-4285F4?style=flat-square&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataprep_by_Trifacta-F9AB00?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ### 🧪 Tooling & Quality
