@@ -121,12 +121,3 @@
   <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr" />
 </p>
 
----
-
-## 📈 GitHub
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Yz31LL?label=Followers&style=for-the-badge&color=7AA2F7&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-A855F7?style=for-the-badge" />
-</div>
